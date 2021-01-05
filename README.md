@@ -1,2 +1,2 @@
 # fisrt
-the repository of someone
+the first project of someone
